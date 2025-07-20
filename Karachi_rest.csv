@@ -1,0 +1,267 @@
+StoreId,RestaurantName,FoodType,Rating,Reviews,City,Menu
+vm2l,Good Mood Food,Fast Food,3.6,(100+),Karachi,Broast - Rs.316; Pizza - Rs.786; Karahi - Rs.914
+e21p,Papas Zingeria,Fast Food,3.6,(100+),Karachi,Roll - Rs.241; Zinger - Rs.328; Burger - Rs.345
+r2tg,Food Train,Pakistani,4.3,(44),Karachi,Zinger - Rs.857; Roll - Rs.214; Nihari - Rs.238
+e7tr,Mrs Minhaj in the kitchen,Pakistani,4.0,(55),Karachi,Zinger - Rs.447; Burger - Rs.815; Biryani - Rs.972
+a29w,Amma's Food,Pakistani,4.6,(89),Karachi,Broast - Rs.726; Ice Cream - Rs.235; Karahi - Rs.249
+mk1s,Eat Dessert First,Cakes & Bakery,5.0,(3),Karachi,Pizza - Rs.959; Nihari - Rs.900; Biryani - Rs.324
+dddx,Karachi Food,Pakistani,3.3,(98),Karachi,Biryani - Rs.562; Zinger - Rs.781; Burger - Rs.848
+dnia,Eat Oye!,Fast Food,3.7,(16),Karachi,Burger - Rs.607; Ice Cream - Rs.518; Nihari - Rs.692
+bkeu,Burning Capsicum,Chinese,3.5,(100+),Karachi,Pizza - Rs.673; Burger - Rs.972; Karahi - Rs.313
+j327,Sawaira Halwa Puri,Pakistani,4.3,(2000+),Karachi,Nihari - Rs.596; Roll - Rs.694; Burger - Rs.244
+i0ye,Alia's kitchen,Pakistani,4.2,(2000+),Karachi,Pizza - Rs.961; Burger - Rs.702; Zinger - Rs.299
+ea78,Fatima's Kitchen,Continental,5.0,(1),Karachi,Ice Cream - Rs.990; Broast - Rs.989; Roll - Rs.926
+pjhr,Craving Corner,Fast Food,3.6,(42),Karachi,Broast - Rs.485; Zinger - Rs.634; Burger - Rs.550
+mmz7,Dehli sweets baker nimko,Pakistani,4.4,(500+),Karachi,Nihari - Rs.625; Roll - Rs.728; Broast - Rs.618
+rqh6,Spice of Karachi by Sana,Pakistani,3.8,(100+),Karachi,Broast - Rs.920; Roll - Rs.268; Zinger - Rs.342
+aaeq,Abe Suleh Kheer House,Desserts,4.4,(100+),Karachi,Pizza - Rs.646; Zinger - Rs.563; Biryani - Rs.267
+k8vb,Al Hamra Sweets,Cakes & Bakery,4.1,(500+),Karachi,Roll - Rs.997; Ice Cream - Rs.570; Karahi - Rs.291
+ok9t,Taste Of Karachi,Fast Food,3.7,(100+),Karachi,Nihari - Rs.653; Karahi - Rs.522; Ice Cream - Rs.429
+fw2s,Just EET (Homechef),Chinese,3.4,(100+),Karachi,Ice Cream - Rs.325; Burger - Rs.570; Zinger - Rs.658
+w5yw,Hayat e sheereen,Pakistani,3.8,(500+),Karachi,Zinger - Rs.654; Broast - Rs.354; Pizza - Rs.738
+on66,HNM Kitchen,Pakistani,4.3,(100+),Karachi,Ice Cream - Rs.750; Biryani - Rs.662; Nihari - Rs.279
+uhul,Rabi's cooking and baking,Pasta,4.3,(100+),Karachi,Burger - Rs.415; Ice Cream - Rs.613; Nihari - Rs.495
+i1j0,Sindhi Hotel,Pakistani,5.0,(41),Karachi,Zinger - Rs.379; Ice Cream - Rs.598; Broast - Rs.517
+vxzd,Ghousia Bakery & Nimco - غوثیہ بیکری,Cakes & Bakery,5.0,(3),Karachi,Biryani - Rs.958; Broast - Rs.942; Nihari - Rs.654
+ppcn,Sajjad Bakery & Nimco,Burgers,4.3,(1000+),Karachi,Pizza - Rs.421; Zinger - Rs.776; Ice Cream - Rs.298
+att4,Mashallah Milk and Juice Center,Ice Cream,3.9,(100+),Karachi,Nihari - Rs.448; Burger - Rs.785; Roll - Rs.548
+rqju,Haneen's kitchen,Pakistani,4.3,(75),Karachi,Biryani - Rs.965; Broast - Rs.483; Roll - Rs.558
+xexm,Zaiqa Food,Fast Food,2.0,(41),Karachi,Burger - Rs.206; Broast - Rs.703; Nihari - Rs.466
+w38s,Dua Foods,Pakistani,4.0,(100+),Karachi,Roll - Rs.454; Pizza - Rs.733; Zinger - Rs.659
+poia,Mamaorama,Casual,3.4,(500+),Karachi,Zinger - Rs.538; Karahi - Rs.712; Broast - Rs.943
+pj3k,Hina Foods,Pakistani,4.0,(85),Karachi,Biryani - Rs.938; Broast - Rs.313; Pizza - Rs.839
+cf5k,Momos with Aliza,Chinese,3.1,(100+),Karachi,Ice Cream - Rs.334; Zinger - Rs.204; Karahi - Rs.906
+n1qh,Homemade Hygienic Food by Mona,Pakistani,3.7,(6),Karachi,Nihari - Rs.312; Burger - Rs.759; Pizza - Rs.564
+clq8,Salman Foods,Paratha,3.7,(100+),Karachi,Biryani - Rs.941; Zinger - Rs.711; Burger - Rs.993
+e16n,Al Quresh Juice Centre,Pakistani,4.0,(61),Karachi,Broast - Rs.548; Roll - Rs.927; Biryani - Rs.358
+a4k9,Chic N Be,Pakistani,3.2,(100+),Karachi,Burger - Rs.862; Biryani - Rs.574; Roll - Rs.579
+p1nf,Top Spice,Pakistani,4.4,(1000+),Karachi,Broast - Rs.905; Nihari - Rs.207; Karahi - Rs.533
+gksc,Malik's Pakwan,Biryani,2.4,(100+),Karachi,Nihari - Rs.712; Ice Cream - Rs.582; Karahi - Rs.210
+ojxy,Kohi Coffees - KDA,Desserts,4.3,(88),Karachi,Pizza - Rs.870; Nihari - Rs.988; Biryani - Rs.594
+h89l,Zee's Kitchen,Pakistani,1.0,(2),Karachi,Pizza - Rs.404; Ice Cream - Rs.245; Roll - Rs.912
+q6at,FOW - Food On Wheels,Pakistani,4.1,(500+),Karachi,Biryani - Rs.716; Burger - Rs.564; Nihari - Rs.379
+ad7z,United King - University Road,Cakes & Bakery,4.5,(4000+),Karachi,Broast - Rs.243; Zinger - Rs.387; Biryani - Rs.515
+ehfr,HEAVY SPICE,Pakistani,4.2,(100+),Karachi,Zinger - Rs.757; Broast - Rs.965; Karahi - Rs.947
+s290,Food Bites,Fast Food,4.8,(4),Karachi,Biryani - Rs.845; Roll - Rs.636; Burger - Rs.433
+vye5,Al Barakha Delhi Zaiqa BBQ & Pizza,Pizza,4.2,(51),Karachi,Biryani - Rs.211; Nihari - Rs.747; Broast - Rs.939
+w2b7,Star Haleem,Pakistani,3.9,(3),Karachi,Nihari - Rs.870; Zinger - Rs.923; Ice Cream - Rs.788
+tlld,Sisters Kitchen,Pakistani,4.9,(61),Karachi,Zinger - Rs.535; Biryani - Rs.231; Karahi - Rs.517
+nqiz,Spice it Up,Pakistani,3.6,(100+),Karachi,Pizza - Rs.222; Roll - Rs.668; Nihari - Rs.816
+cglq,Nice Foods,Fast Food,4.3,(100+),Karachi,Ice Cream - Rs.567; Karahi - Rs.463; Pizza - Rs.452
+egtx,Yummy with Mummy,Chinese,2.3,(17),Karachi,Broast - Rs.399; Ice Cream - Rs.667; Roll - Rs.956
+n7tc,Crispy Point,Burgers,3.8,(2000+),Karachi,Ice Cream - Rs.610; Biryani - Rs.952; Karahi - Rs.414
+qbes,Sufra By Shazia,Pakistani,4.3,(73),Karachi,Biryani - Rs.571; Burger - Rs.949; Zinger - Rs.408
+v3tt,Burger 99,Fast Food,3.6,(3000+),Karachi,Ice Cream - Rs.849; Broast - Rs.940; Burger - Rs.551
+fbow,Eatly Karachi,Chinese,4.2,(100+),Karachi,Zinger - Rs.471; Roll - Rs.544; Pizza - Rs.670
+hocy,Al-Hamd Burger,Fast Food,4.7,(27),Karachi,Biryani - Rs.380; Nihari - Rs.858; Ice Cream - Rs.447
+br8f,DAMN! Burgers - NK,American,2.7,(100+),Karachi,Burger - Rs.490; Nihari - Rs.824; Karahi - Rs.467
+abw5,Asma's Kitchen,Pakistani,4.3,(47),Karachi,Pizza - Rs.700; Broast - Rs.300; Ice Cream - Rs.859
+xney,AA-2 Food Center,BBQ,3.6,(100+),Karachi,Roll - Rs.858; Ice Cream - Rs.360; Nihari - Rs.405
+zet7,Jamil Haleem House,Pakistani,4.0,(100+),Karachi,Roll - Rs.556; Biryani - Rs.373; Ice Cream - Rs.656
+gnx7,Al Macca Super Burger,Fast Food,4.2,(78),Karachi,Biryani - Rs.454; Nihari - Rs.809; Roll - Rs.479
+oq45,Home Kitchen,Pakistani,4.4,(500+),Karachi,Ice Cream - Rs.661; Burger - Rs.733; Karahi - Rs.824
+v7zg,Faazu Paya Chanay,Pakistani,3.5,(2000+),Karachi,Broast - Rs.754; Pizza - Rs.458; Roll - Rs.658
+wzwc,Chill & Grill,Pasta,3.9,(25),Karachi,Biryani - Rs.337; Nihari - Rs.441; Pizza - Rs.656
+w7ye,"Delicor Ice Cream, Kulfi & Falooda - North",Ice Cream,4.1,(500+),Karachi,Ice Cream - Rs.740; Roll - Rs.425; Karahi - Rs.496
+k0fk,Al Asif BBQ Fast Food & Sheermal House,Fast Food,4.2,(84),Karachi,Pizza - Rs.981; Ice Cream - Rs.784; Zinger - Rs.524
+n7kp,Big Bite Fast Food & BBQ,Fast Food,3.7,(100+),Karachi,Broast - Rs.807; Pizza - Rs.870; Karahi - Rs.819
+gl9b,Crems Chocolates,Desserts,5.0,(2),Karachi,Zinger - Rs.779; Burger - Rs.574; Pizza - Rs.620
+bx93,Al Riaz Restaurant & Fast Food,Fast Food,4.4,(100+),Karachi,Karahi - Rs.917; Nihari - Rs.349; Broast - Rs.686
+jig6,Makkah Pizza,Pizza,3.5,(51),Karachi,Biryani - Rs.485; Broast - Rs.992; Karahi - Rs.769
+x7me,Mom's Foods,Pakistani,3.9,(62),Karachi,Pizza - Rs.539; Biryani - Rs.269; Burger - Rs.464
+b9ax,The Burger Rack,Pasta,3.3,(71),Karachi,Burger - Rs.614; Ice Cream - Rs.435; Karahi - Rs.528
+ubn3,Aiza & Ayan kitchen,Pakistani,4.0,(1000+),Karachi,Broast - Rs.738; Biryani - Rs.551; Ice Cream - Rs.944
+xeve,DINNER 2 GETHER,Pakistani,4.0,(38),Karachi,Zinger - Rs.717; Roll - Rs.1000; Broast - Rs.714
+bbnq,Crispy Planet -  NK,American,3.2,(100+),Karachi,Broast - Rs.392; Ice Cream - Rs.880; Biryani - Rs.292
+g7b3,King's FastFood,Fast Food,3.5,(51),Karachi,Pizza - Rs.865; Broast - Rs.737; Nihari - Rs.891
+v6hn,Umme Hani Hi Tea,Pakistani,4.5,(4000+),Karachi,Burger - Rs.657; Ice Cream - Rs.763; Nihari - Rs.269
+p18y,Delhi Masala House,Pakistani,3.5,(1000+),Karachi,Ice Cream - Rs.348; Zinger - Rs.581; Pizza - Rs.436
+n1tt,Lahori data kitchen,Biryani,3.4,(3000+),Karachi,Burger - Rs.237; Nihari - Rs.373; Broast - Rs.234
+jnr0,Ayyan food point,Pakistani,3.0,(44),Karachi,Zinger - Rs.585; Roll - Rs.852; Biryani - Rs.450
+smzc,Hasnain Pakwan Centre,Pakistani,4.1,(500+),Karachi,Nihari - Rs.884; Burger - Rs.651; Broast - Rs.714
+h8z1,AA2 Food Center,Pakistani,4.1,(500+),Karachi,Nihari - Rs.782; Roll - Rs.644; Ice Cream - Rs.656
+wlvp,Sarah's Cuisine,Pakistani,4.2,(34),Karachi,Biryani - Rs.764; Pizza - Rs.465; Ice Cream - Rs.401
+v6yh,Biryani Palace,Fast Food,4.2,(1000+),Karachi,Burger - Rs.410; Karahi - Rs.315; Zinger - Rs.752
+n7bd,7 Dianz,Fast Food,3.6,(1000+),Karachi,Burger - Rs.847; Roll - Rs.551; Nihari - Rs.715
+vj7o,Pizza Arbish,Pizza,3.7,(100),Karachi,Ice Cream - Rs.899; Karahi - Rs.316; Biryani - Rs.492
+w5ap,Qureshi Payee,Pakistani,4.2,(1000+),Karachi,Broast - Rs.668; Ice Cream - Rs.519; Nihari - Rs.652
+uirh,Food Valley (Homechef),Chinese,3.3,(100+),Karachi,Broast - Rs.342; Biryani - Rs.688; Zinger - Rs.383
+j4hj,Daata kitchen,Pakistani,4.1,(1000+),Karachi,Pizza - Rs.420; Roll - Rs.414; Nihari - Rs.669
+j722,KARACHI DESI FOODS,Pakistani,3.8,(100+),Karachi,Ice Cream - Rs.963; Roll - Rs.847; Burger - Rs.768
+d92p,Ali Brunch Point ABP,Pakistani,4.1,(100+),Karachi,Karahi - Rs.939; Zinger - Rs.676; Broast - Rs.789
+g1vv,ALLAH WALA SHEERMAL HOUSE,Pakistani,4.3,(3000+),Karachi,Pizza - Rs.942; Broast - Rs.804; Burger - Rs.857
+i1d2,Pizza Way,Pizza,3.5,(24),Karachi,Biryani - Rs.345; Nihari - Rs.671; Burger - Rs.499
+vj9d,KhauSey Town (North),Pakistani,4.3,(500+),Karachi,Nihari - Rs.955; Pizza - Rs.414; Ice Cream - Rs.544
+xo4m,Hot & Fast,Fast Food,3.0,(21),Karachi,Karahi - Rs.206; Ice Cream - Rs.445; Zinger - Rs.535
+n5xl,MashAllah BBC Broast,Fast Food,3.9,(4000+),Karachi,Pizza - Rs.378; Broast - Rs.623; Nihari - Rs.378
+ku3a,Shuru Balochi Sajji,Pakistani,4.2,(1000+),Karachi,Roll - Rs.471; Karahi - Rs.678; Biryani - Rs.272
+rvz1,Hijazi Foods,Pizza,4.0,(100+),Karachi,Pizza - Rs.300; Ice Cream - Rs.487; Broast - Rs.938
+w0ii,"SB Sajji BBQ, Pizza, Chinese & Fast food",Pakistani,4.3,(3000+),Karachi,Karahi - Rs.371; Pizza - Rs.434; Roll - Rs.730
+lq5v,Cafe Fork N Dough,Fast Food,3.8,(88),Karachi,Roll - Rs.962; Nihari - Rs.543; Biryani - Rs.516
+fzuf,Bistro Eatery,Burgers,3.5,(100+),Karachi,Ice Cream - Rs.751; Broast - Rs.555; Roll - Rs.442
+j01s,Sangat Restaurant,Fast Food,3.9,(100+),Karachi,Pizza - Rs.552; Zinger - Rs.371; Burger - Rs.899
+tmpa,Warsi Foods,Fast Food,3.9,(100+),Karachi,Biryani - Rs.990; Roll - Rs.870; Nihari - Rs.393
+w3ds,King Burger,Pasta,4.0,(500+),Karachi,Roll - Rs.982; Broast - Rs.836; Karahi - Rs.537
+fnkq,Shuru Balochi Fast Food & Chinese,Fast Food,4.2,(1000+),Karachi,Broast - Rs.805; Ice Cream - Rs.321; Pizza - Rs.261
+t9ek,Pay Say Pizza,Pizza,4.6,(1000+),Karachi,Burger - Rs.474; Roll - Rs.375; Zinger - Rs.725
+bmvx,Munching Hub,Fast Food,3.1,(10),Karachi,Pizza - Rs.859; Roll - Rs.445; Karahi - Rs.934
+tw5g,Bistro Bites,Pakistani,3.7,(100+),Karachi,Broast - Rs.516; Nihari - Rs.996; Ice Cream - Rs.470
+zp59,Pizzaplex - North Karachi,Pizza,3.6,(500+),Karachi,Biryani - Rs.921; Ice Cream - Rs.239; Nihari - Rs.900
+je71,Signature Cuisine,Chinese,2.8,(52),Karachi,Pizza - Rs.812; Zinger - Rs.636; Broast - Rs.624
+dmbb,Eat n Feed (Fast Food & Pizza),Pasta,3.4,(100+),Karachi,Burger - Rs.371; Nihari - Rs.775; Karahi - Rs.947
+fn9g,Hot n Juicy Roll - 4K Chowrangi,Fast Food,3.9,(79),Karachi,Karahi - Rs.985; Ice Cream - Rs.545; Roll - Rs.343
+cly9,Sarkar Jee Restaurant,Fast Food,4.5,(30),Karachi,Nihari - Rs.289; Roll - Rs.413; Burger - Rs.753
+oraq,Food Pasand,Pakistani,3.6,(1000+),Karachi,Roll - Rs.396; Pizza - Rs.377; Karahi - Rs.770
+gaz7,Pizza top inn,Fast Food,3.9,(1000+),Karachi,Burger - Rs.760; Karahi - Rs.249; Nihari - Rs.719
+gbfc,Saas Bahu Ka Chatkhara,0 min,3.9,(41),Karachi,Zinger - Rs.663; Nihari - Rs.955; Ice Cream - Rs.932
+c9yj,Burger Top,Pizza,3.8,(3000+),Karachi,Burger - Rs.857; Nihari - Rs.749; Ice Cream - Rs.509
+u0nr,Hijazi Foods,Healthy Food,4.2,(1000+),Karachi,Nihari - Rs.359; Ice Cream - Rs.521; Roll - Rs.329
+z0mj,BBC Broast,Fast Food,3.9,(3000+),Karachi,Ice Cream - Rs.820; Zinger - Rs.833; Karahi - Rs.895
+ifnm,MashaAllah Peshawari Ice Cream and Special Faluda,Ice Cream,4.1,(100+),Karachi,Karahi - Rs.228; Broast - Rs.794; Biryani - Rs.682
+ic68,Karachi Halwa puri - North Karachi,Pakistani,4.2,(100+),Karachi,Roll - Rs.797; Broast - Rs.353; Biryani - Rs.380
+n1ws,Pizza Tycoon,Pasta,4.1,(5000+),Karachi,Zinger - Rs.997; Biryani - Rs.836; Karahi - Rs.270
+btiw,Qadri Zaiqa Haleem - North Karachi,Pakistani,4.4,(100+),Karachi,Zinger - Rs.508; Roll - Rs.224; Ice Cream - Rs.296
+lj4w,Cafe Mughal,Pakistani,3.1,(33),Karachi,Roll - Rs.416; Ice Cream - Rs.614; Karahi - Rs.831
+f3fu,Lazzat Home Food,Pakistani,3.5,(19),Karachi,Zinger - Rs.658; Pizza - Rs.356; Broast - Rs.222
+opw6,Food In Hassan's,Pakistani,4.1,(88),Karachi,Roll - Rs.757; Zinger - Rs.246; Ice Cream - Rs.752
+iko1,Pizza bake - North Karachi,Pasta,4.1,(500+),Karachi,Biryani - Rs.804; Zinger - Rs.660; Burger - Rs.240
+w1qx,Pakistan Nihari Sheermal and Pakwan House,Pakistani,4.2,(5000+),Karachi,Karahi - Rs.688; Nihari - Rs.307; Pizza - Rs.851
+utik,Feeling Hungry??,Pakistani,1.7,(46),Karachi,Ice Cream - Rs.829; Roll - Rs.858; Burger - Rs.788
+cq6a,Arman Burger Point,Fast Food,3.8,(29),Karachi,Nihari - Rs.407; Biryani - Rs.997; Ice Cream - Rs.407
+r6hs,Arooma's,Chinese,2.7,(100+),Karachi,Karahi - Rs.1000; Pizza - Rs.686; Ice Cream - Rs.296
+yvsz,Mashallah halwapuri & kachori,Savouries,4.1,(2000+),Karachi,Zinger - Rs.795; Roll - Rs.331; Pizza - Rs.576
+vh92,Pizza O Garlic,Pizza,3.6,(78),Karachi,Zinger - Rs.247; Karahi - Rs.729; Biryani - Rs.919
+darc,PIZZA PIE,Pizza,4.1,(25),Karachi,Roll - Rs.955; Karahi - Rs.295; Ice Cream - Rs.959
+h3gl,Absolute Home Kitchen,Chinese,4.0,(100+),Karachi,Roll - Rs.590; Zinger - Rs.956; Ice Cream - Rs.326
+n1zj,Crispy Zinger,Fast Food,4.1,(2000+),Karachi,Broast - Rs.936; Karahi - Rs.687; Roll - Rs.397
+r2c9,Kaybees - North Karachi,Fast Food,4.3,(1000+),Karachi,Nihari - Rs.901; Pizza - Rs.939; Burger - Rs.460
+ghhz,Delight Ice Cream,Ice Cream,4.0,(100+),Karachi,Ice Cream - Rs.910; Nihari - Rs.849; Karahi - Rs.484
+j6i2,Qalandri Biryani center,Pakistani,4.4,(2000+),Karachi,Karahi - Rs.1000; Roll - Rs.722; Nihari - Rs.368
+nnzu,Fusion The Soda Lab,Beverages,4.7,(100+),Karachi,Burger - Rs.510; Roll - Rs.217; Zinger - Rs.659
+znfe,Saucy Bites,Fast Food,3.8,(53),Karachi,Karahi - Rs.311; Zinger - Rs.617; Broast - Rs.251
+krwn,Ghousia Food Centre - North Nazimabad,Fast Food,4.0,(500+),Karachi,Biryani - Rs.641; Karahi - Rs.776; Burger - Rs.987
+oiu4,"Pizza Xpress ""The X Factor of Pizza""",Pasta,3.8,(100+),Karachi,Roll - Rs.462; Ice Cream - Rs.996; Karahi - Rs.347
+w8wq,Al Saeedi Pakwan Centre,Pakistani,3.9,(1000+),Karachi,Nihari - Rs.630; Ice Cream - Rs.531; Zinger - Rs.266
+v7hb,United Queen Food,Pasta,4.1,(10000+),Karachi,Broast - Rs.694; Nihari - Rs.637; Karahi - Rs.425
+v1zf,Nabeel Home Chef,Pakistani,4.0,(1000+),Karachi,Pizza - Rs.949; Biryani - Rs.328; Burger - Rs.678
+qqjj,Sizzling Grill,Chinese,3.5,(99),Karachi,Roll - Rs.637; Nihari - Rs.997; Pizza - Rs.788
+z0zd,Local Eats,Fast Food,4.7,(2),Karachi,Pizza - Rs.708; Roll - Rs.252; Broast - Rs.262
+ndnf,M.D Super Burger & Fast Food,Fast Food,3.9,(500+),Karachi,Roll - Rs.893; Pizza - Rs.990; Zinger - Rs.495
+m5r9,Pishawari Ice Cream & Juice Bar (Fast Food),Beverages,3.3,(36),Karachi,Broast - Rs.492; Burger - Rs.776; Roll - Rs.825
+t6ms,Tasty Biryani House,Biryani,4.2,(5000+),Karachi,Biryani - Rs.401; Roll - Rs.300; Burger - Rs.545
+w3ua,Foodo`Clock,Pakistani,3.8,(500+),Karachi,Pizza - Rs.450; Burger - Rs.531; Nihari - Rs.488
+i86v,Qalandri Biryani & Pakwan Center,Pakistani,4.3,(500+),Karachi,Karahi - Rs.319; Burger - Rs.440; Ice Cream - Rs.885
+hxig,Nice Bakers & Sweets,Cakes & Bakery,4.5,(2000+),Karachi,Biryani - Rs.437; Nihari - Rs.442; Ice Cream - Rs.867
+u4xp,Shahjee Burger,Burgers,4.2,(2000+),Karachi,Zinger - Rs.329; Broast - Rs.728; Nihari - Rs.405
+jkwi,Baba G Fast Food,Fast Food,3.8,(8),Karachi,Pizza - Rs.508; Burger - Rs.669; Ice Cream - Rs.706
+sxc0,New Alaska,Fast Food,3.5,(100+),Karachi,Broast - Rs.783; Zinger - Rs.352; Ice Cream - Rs.466
+wzap,Fay Say Fries,Fast Food,4.3,(99),Karachi,Ice Cream - Rs.436; Pizza - Rs.221; Biryani - Rs.550
+x733,DEL HOME CUISINE,Pakistani,3.7,(66),Karachi,Nihari - Rs.506; Biryani - Rs.718; Roll - Rs.626
+sr88,Panda’s Pantry,Chinese,4.0,(100+),Karachi,Ice Cream - Rs.316; Broast - Rs.229; Nihari - Rs.581
+bxm9,Karachi Biryani Center,Pakistani,3.8,(2000+),Karachi,Pizza - Rs.368; Nihari - Rs.801; Roll - Rs.561
+auf3,Crispy Craves Fast Food,Fast Food,3.8,(2),Karachi,Zinger - Rs.993; Nihari - Rs.243; Burger - Rs.680
+h4bt,Al-Rozi Pakwan,Pakistani,3.9,(100+),Karachi,Biryani - Rs.645; Broast - Rs.431; Pizza - Rs.781
+jegk,New Quetta Chaman Chaman Hotel,Pakistani,4.2,(1000+),Karachi,Karahi - Rs.737; Broast - Rs.916; Ice Cream - Rs.747
+ucdo,Shawaroast,Fast Food,4.1,(500+),Karachi,Broast - Rs.452; Ice Cream - Rs.916; Pizza - Rs.906
+n6ay,Ajjis Fast Food,Fast Food,3.8,(100+),Karachi,Zinger - Rs.789; Roll - Rs.556; Karahi - Rs.337
+rihx,Mama Shinwari Restaurant,Pakistani,2.5,(7),Karachi,Broast - Rs.406; Pizza - Rs.883; Roll - Rs.988
+wkxh,Mr & Mrs Kitchen House,Chinese,4.0,(12),Karachi,Karahi - Rs.259; Burger - Rs.865; Zinger - Rs.755
+byn4,Martabaan (Homechef),Pakistani,3.8,(14),Karachi,Nihari - Rs.864; Broast - Rs.388; Ice Cream - Rs.854
+pads,#EAT,Pasta,4.0,(100+),Karachi,Burger - Rs.578; Broast - Rs.697; Zinger - Rs.974
+gqw4,Asia Quetta Hotel,Pakistani,4.0,(1000+),Karachi,Biryani - Rs.291; Karahi - Rs.652; Zinger - Rs.814
+ja1c,Jiya’s Kitchen,Pakistani,4.0,(100+),Karachi,Zinger - Rs.393; Roll - Rs.650; Burger - Rs.670
+hyv0,Zam Bakes,Continental,3.1,(34),Karachi,Pizza - Rs.346; Karahi - Rs.264; Ice Cream - Rs.687
+swo8,Sheikh's Foods,Fast Food,4.0,(4),Karachi,Karahi - Rs.653; Pizza - Rs.901; Broast - Rs.918
+n3fo,La Place Du Burger,Pakistani,4.1,(500+),Karachi,Pizza - Rs.692; Biryani - Rs.744; Zinger - Rs.542
+jyzz,Desi Chatkara (Homechef),Pakistani,3.5,(100+),Karachi,Pizza - Rs.289; Biryani - Rs.419; Ice Cream - Rs.351
+iixg,Big City Pizza - North Karachi,Pizza,3.1,(100+),Karachi,Ice Cream - Rs.895; Karahi - Rs.437; Zinger - Rs.364
+yw1z,Delish Star Sweets and Bakers,Cakes & Bakery,4.6,(100+),Karachi,Biryani - Rs.714; Ice Cream - Rs.928; Roll - Rs.586
+xmb4,Peshawari Ice Cream (North Karachi),Ice Cream,3.4,(100+),Karachi,Roll - Rs.473; Zinger - Rs.752; Karahi - Rs.271
+alqx,Naan Hut,Pasta,4.1,(100+),Karachi,Ice Cream - Rs.224; Pizza - Rs.359; Broast - Rs.913
+w3ic,Knead Cafe,Pakistani,4.3,(100+),Karachi,Broast - Rs.308; Biryani - Rs.656; Karahi - Rs.982
+v3le,Al Madina Burger,Burgers,4.5,(5000+),Karachi,Nihari - Rs.236; Burger - Rs.206; Broast - Rs.346
+hsm9,Kitchen Stories,Fast Food,4.8,(11),Karachi,Zinger - Rs.759; Broast - Rs.800; Pizza - Rs.448
+lkrg,Food Valley,Chinese,3.8,(36),Karachi,Biryani - Rs.261; Burger - Rs.234; Roll - Rs.326
+v9gt,"Fayyaz Sheermal, Nehari & Pakwan House - Nagan Chowrangi",BBQ,4.2,(1000+),Karachi,Karahi - Rs.663; Biryani - Rs.657; Nihari - Rs.993
+mmoc,Hunger Night,Pakistani,4.1,(100+),Karachi,Broast - Rs.464; Ice Cream - Rs.966; Pizza - Rs.701
+qckw,Sohail Turkish Doner,Fast Food,3.4,(100+),Karachi,Ice Cream - Rs.420; Karahi - Rs.739; Broast - Rs.401
+enhd,Nimra Catering food,Pakistani,2.7,(38),Karachi,Nihari - Rs.588; Broast - Rs.488; Pizza - Rs.429
+u594,AL MADINA FAST FOOD BBQ AND PIZZA - Nagin Chorangi,Pasta,4.3,(5000+),Karachi,Ice Cream - Rs.351; Burger - Rs.967; Pizza - Rs.915
+f8ta,Maa Ka Khana,Pakistani,3.7,(500+),Karachi,Roll - Rs.908; Zinger - Rs.373; Nihari - Rs.268
+xm4i,Burgeristan,Fast Food,2.2,(25),Karachi,Pizza - Rs.751; Ice Cream - Rs.952; Zinger - Rs.877
+efoi,Dumpling station,Japanese,4.2,(6),Karachi,Pizza - Rs.451; Nihari - Rs.284; Roll - Rs.527
+n0sx,Ghousia Fast Food Bar BQ & Pakwan Centre,Pasta,4.1,(5000+),Karachi,Nihari - Rs.403; Zinger - Rs.821; Roll - Rs.804
+cd5j,New Quetta Jeddah Hotel,Pakistani,5.0,(1),Karachi,Nihari - Rs.732; Burger - Rs.979; Karahi - Rs.849
+jlip,Karachi Spicy Roll Corner - Bufferzone,Fast Food,2.3,(8),Karachi,Ice Cream - Rs.437; Biryani - Rs.888; Broast - Rs.837
+vo8l,MASTER PAKWAN AND FOOD CENTRE (New Karachi),Pakistani,3.6,(1000+),Karachi,Zinger - Rs.693; Biryani - Rs.965; Roll - Rs.706
+mv0p,Moosaji Milkshake,Desserts,4.7,(12),Karachi,Biryani - Rs.673; Burger - Rs.443; Broast - Rs.778
+wkmc,Food Heaven,Pakistani,3.6,(56),Karachi,Karahi - Rs.867; Biryani - Rs.649; Zinger - Rs.322
+w9nw,ARABIC SHAWARMA,Shawarma,4.4,(500+),Karachi,Roll - Rs.895; Biryani - Rs.321; Nihari - Rs.487
+rqmv,Desi Chatkara,Pakistani,4.2,(500+),Karachi,Nihari - Rs.307; Broast - Rs.733; Karahi - Rs.518
+v0tb,Cafe Karachi,Burgers,4.0,(1000+),Karachi,Nihari - Rs.680; Ice Cream - Rs.451; Pizza - Rs.867
+d6vr,Quetta Chai,Pakistani,4.3,(3000+),Karachi,Biryani - Rs.330; Burger - Rs.842; Karahi - Rs.877
+hgf8,Marvellous Foods,Fast Food,3.7,(100+),Karachi,Ice Cream - Rs.399; Burger - Rs.949; Karahi - Rs.400
+v5sk,Noorani Ice Cream & Falooda,Ice Cream,4.0,(89),Karachi,Roll - Rs.221; Pizza - Rs.647; Karahi - Rs.638
+lb50,Fazal Foodz,Fast Food,4.6,(7),Karachi,Ice Cream - Rs.575; Biryani - Rs.588; Broast - Rs.478
+g0gf,NZ Food,Pakistani,3.7,(2000+),Karachi,Karahi - Rs.754; Roll - Rs.694; Biryani - Rs.579
+s8ta,Al Madina Fast Food - Nagin Chowrangi,Fast Food,4.3,(15000+),Karachi,Burger - Rs.429; Zinger - Rs.933; Pizza - Rs.530
+qt4n,Signature Pizza House And Chinese Food,Pasta,3.7,(100+),Karachi,Biryani - Rs.207; Zinger - Rs.615; Burger - Rs.442
+ncmq,Signature Burgers & Wings,Fast Food,3.9,(2000+),Karachi,Ice Cream - Rs.884; Zinger - Rs.843; Burger - Rs.904
+sus7,MashaAllah Day Night Hotel,Pakistani,3.8,(100+),Karachi,Karahi - Rs.239; Burger - Rs.360; Broast - Rs.313
+cumw,Tarka Kitchen,Pakistani,3.5,(62),Karachi,Pizza - Rs.685; Broast - Rs.540; Nihari - Rs.820
+stm1,Gul Shinwari Restaurant,Pakistani,4.4,(500+),Karachi,Biryani - Rs.754; Zinger - Rs.328; Ice Cream - Rs.983
+hmhg,M Iqbal Foods,Pakistani,3.9,(4),Karachi,Broast - Rs.724; Ice Cream - Rs.962; Nihari - Rs.560
+rt0n,Salt  & Creamy (Homechef),Pasta,2.9,(97),Karachi,Zinger - Rs.678; Ice Cream - Rs.512; Nihari - Rs.494
+w9kv,Illahi Nihari BBQ & Fast Food Restaurant,Pakistani,4.1,(3000+),Karachi,Karahi - Rs.211; Ice Cream - Rs.815; Biryani - Rs.338
+n0rb,Sareena Juice Bar,Beverages,4.3,(2000+),Karachi,Broast - Rs.966; Zinger - Rs.898; Biryani - Rs.744
+vilo,Barkat Kitchen,Pakistani,4.7,(2000+),Karachi,Karahi - Rs.350; Zinger - Rs.498; Burger - Rs.245
+k5dm,Turk naan,Pizza,3.4,(100+),Karachi,Zinger - Rs.913; Nihari - Rs.785; Roll - Rs.965
+l1cs,Hunger's Home Kitchen (Homechef),Fast Food,4.0,(100+),Karachi,Zinger - Rs.440; Ice Cream - Rs.338; Pizza - Rs.647
+w0ib,SHALIMAR BAKERY,Cakes & Bakery,4.0,(2000+),Karachi,Roll - Rs.974; Karahi - Rs.815; Pizza - Rs.697
+tvg8,The Desi Food,Pakistani,4.5,(20),Karachi,Ice Cream - Rs.783; Biryani - Rs.224; Pizza - Rs.550
+pne9,Ayan Pizza,Pizza,4.1,(15),Karachi,Biryani - Rs.445; Broast - Rs.221; Roll - Rs.278
+wivb,Fun Fries - North Nazimabad,Fast Food,3.9,(100+),Karachi,Pizza - Rs.855; Ice Cream - Rs.847; Biryani - Rs.408
+vwv3,Khowsey Kitchen,Pakistani,4.3,(1000+),Karachi,Broast - Rs.569; Zinger - Rs.230; Burger - Rs.667
+n4aw,AA Food Center - Bufferzone,Pasta,4.0,(10000+),Karachi,Ice Cream - Rs.770; Burger - Rs.486; Biryani - Rs.295
+a9is,CornPop,Healthy Food,4.4,(56),Karachi,Zinger - Rs.297; Broast - Rs.357; Biryani - Rs.600
+w2yd,Zaiqa Kitchen c,Chinese,4.1,(1000+),Karachi,Pizza - Rs.971; Zinger - Rs.290; Roll - Rs.849
+klzy,SPICE HOT N ROLL,Fast Food,4.4,(100+),Karachi,Karahi - Rs.558; Burger - Rs.277; Nihari - Rs.860
+b8wy,House of Khausa,Pakistani,4.0,(100+),Karachi,Roll - Rs.284; Zinger - Rs.459; Burger - Rs.471
+z9gw,Royal Feast,Fast Food,4.8,(20),Karachi,Broast - Rs.256; Karahi - Rs.472; Burger - Rs.249
+kn4v,Sareena Food Court,Fast Food,4.3,(11),Karachi,Ice Cream - Rs.663; Nihari - Rs.306; Pizza - Rs.336
+uiwq,Minha's Kitchen,Fast Food,4.8,(5),Karachi,Nihari - Rs.447; Burger - Rs.800; Ice Cream - Rs.667
+h27x,Mateen Food Centre,Pakistani,4.1,(2000+),Karachi,Biryani - Rs.538; Ice Cream - Rs.671; Zinger - Rs.264
+eb1g,Craving Foods,Chinese,2.0,(84),Karachi,Biryani - Rs.626; Zinger - Rs.693; Ice Cream - Rs.641
+v3un,Al Habib Restaurant,Pakistani,4.4,(10000+),Karachi,Ice Cream - Rs.831; Karahi - Rs.574; Roll - Rs.679
+y2fd,Naseeb Biryani House,Pakistani,4.2,(32),Karachi,Nihari - Rs.488; Pizza - Rs.711; Zinger - Rs.687
+n3lw,Manpasand Golgappy,Pakistani,4.3,(1000+),Karachi,Roll - Rs.821; Zinger - Rs.392; Burger - Rs.391
+os6c,Pizza Spice,Pizza,4.3,(2),Karachi,Ice Cream - Rs.629; Nihari - Rs.811; Zinger - Rs.714
+xp1v,hygenic kitchen,Pakistani,3.9,(1000+),Karachi,Nihari - Rs.851; Ice Cream - Rs.347; Burger - Rs.440
+ppf8,Pizzerian,Pizza,4.1,(100+),Karachi,Nihari - Rs.410; Zinger - Rs.428; Pizza - Rs.281
+yvde,Sweet Treats,Desserts,4.1,(100+),Karachi,Roll - Rs.218; Burger - Rs.453; Biryani - Rs.912
+hwp7,OH MY SODA,Beverages,4.3,(500+),Karachi,Biryani - Rs.634; Nihari - Rs.387; Roll - Rs.682
+klxl,Saucy Bites,0 min,3.1,(7),Karachi,Karahi - Rs.610; Broast - Rs.350; Roll - Rs.742
+n9jy,Lucky fast Food,Fast Food,4.0,(4000+),Karachi,Roll - Rs.547; Karahi - Rs.214; Ice Cream - Rs.989
+wll0,Rocket Pizza,Pizza,3.8,(100+),Karachi,Biryani - Rs.931; Ice Cream - Rs.552; Karahi - Rs.405
+nkw6,Backyard Grill,Fast Food,4.2,(1000+),Karachi,Zinger - Rs.909; Ice Cream - Rs.522; Nihari - Rs.559
+p9pg,HavaBite Fast Food (North Nazimabad Block M),Fast Food,4.5,(1000+),Karachi,Nihari - Rs.654; Karahi - Rs.543; Roll - Rs.411
+yb4v,Juice Corner,0 min,1.4,(35),Karachi,Burger - Rs.308; Karahi - Rs.788; Pizza - Rs.213
+df70,Cafe NaanParatha,Burgers,2.8,(100+),Karachi,Burger - Rs.942; Karahi - Rs.225; Broast - Rs.766
+n5rp,Super Burger & Fast Food (Buffer Zone),Pakistani,4.5,(10000+),Karachi,Roll - Rs.754; Pizza - Rs.788; Zinger - Rs.504
+jwha,Mad Fried Chicken - North Nazimabad,Burgers,4.1,(500+),Karachi,Broast - Rs.821; Nihari - Rs.261; Pizza - Rs.999
+it1l,Bismal's Kitchen by Marium (Homechef),Fast Food,3.9,(55),Karachi,Burger - Rs.480; Pizza - Rs.305; Broast - Rs.291
+r0wf,HighFry Cafe,Fast Food,3.6,(10),Karachi,Biryani - Rs.961; Burger - Rs.872; Ice Cream - Rs.504
+s9s5,MASHALLAH Nihari & Sheermal House,Pakistani,4.3,(2000+),Karachi,Broast - Rs.676; Roll - Rs.579; Karahi - Rs.232
+fxhd,Bismillah Foods,Pakistani,3.2,(500+),Karachi,Roll - Rs.694; Ice Cream - Rs.228; Biryani - Rs.337
+t1jw,Pizza Studio,Pizza,3.8,(5000+),Karachi,Ice Cream - Rs.772; Broast - Rs.930; Biryani - Rs.891
+re02,Kiran's Kitchen,Pakistani,4.0,(1000+),Karachi,Ice Cream - Rs.315; Zinger - Rs.308; Karahi - Rs.673
+v3jc,Haveli Kebab & Grill,Pasta,4.2,(2000+),Karachi,Broast - Rs.745; Karahi - Rs.894; Ice Cream - Rs.406
+tw6j,Memon Chat House,Pakistani,2.3,(42),Karachi,Nihari - Rs.568; Broast - Rs.330; Karahi - Rs.793
+yeiw,AFIYA KA KITCHEN,Samosa,4.2,(16),Karachi,Karahi - Rs.949; Zinger - Rs.506; Ice Cream - Rs.366
+mbqq,Hungry The Best Food,Chinese,4.3,(500+),Karachi,Zinger - Rs.999; Broast - Rs.480; Biryani - Rs.416
+v1xn,Ilyas Qureshi Biryani,Biryani,3.3,(1000+),Karachi,Nihari - Rs.516; Broast - Rs.799; Pizza - Rs.454
+zmf1,Khana Shana (Homechef),Fast Food,3.8,(100+),Karachi,Burger - Rs.616; Ice Cream - Rs.383; Biryani - Rs.639
+r4jd,Burger Oye,Fast Food,3.2,(500+),Karachi,Roll - Rs.613; Nihari - Rs.451; Ice Cream - Rs.916
+u0on,Hyderi Roll Point,Fast Food,3.2,(100+),Karachi,Ice Cream - Rs.622; Pizza - Rs.569; Karahi - Rs.397
+hpwo,Hej Pirates Soda,Beverages,3.0,(99),Karachi,Karahi - Rs.447; Ice Cream - Rs.401; Pizza - Rs.451
+t3qy,Burger O'Clock - North Nazimabad,Fast Food,4.0,(15000+),Karachi ,Zinger - Rs.418; Ice Cream - Rs.650; Burger - Rs.942
